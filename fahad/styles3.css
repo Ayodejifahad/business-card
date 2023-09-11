@@ -1,0 +1,28 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.avatar{
+
+
+}
+.card {
+width: 400px;
+padding: 20px;
+display:flex;
+justify-content:space-between;
+margin-left: auto;
+margin-right: auto;
+background: #ddebf8;
+color: #2b2839;
+border-bottom: 6px solid #d8cefe;
+text-align: center;
+} 
+.italic {
+font-style: italic;
+}
+.border-blue {
+    border: 1px dotted blue;
+ margin-left: auto;
+ margin-right: auto;
+}
